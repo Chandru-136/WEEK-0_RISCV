@@ -3,9 +3,11 @@ The diagram illustrates the digital VLSI SoC design and planning flow, starting 
 
 ## Tool Installation Verification
 # Yosys
-
+![Yosys](https://github.com/Chandru-136/WEEK-0_RISCV/blob/main/images/gtkwave.png?raw=true)
 
 # Iverilog
+![Yosys](https://github.com/Chandru-136/WEEK-0_RISCV/blob/main/images/gtkwave.png?raw=true)
 
 
 # GTKWave
+![Yosys](https://github.com/Chandru-136/WEEK-0_RISCV/blob/main/images/gtkwave.png?raw=true)
